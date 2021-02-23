@@ -2,14 +2,18 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WineXerox.github.io/reactsite",
+  "homepage": "https://WineXerox.github.io/reactsite/",
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "particles-bg": "^2.5.0",
     "react": "^17.0.1",
+    "react-cv": "^1.2.0",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
+    "reactstrap": "^8.9.0",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
